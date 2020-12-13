@@ -54,7 +54,6 @@ body {
     margin-right: 0;
     width: 100%;
     clear: both;
-    padding: 2em;
 
     .page__content,
     .page__meta,
@@ -62,7 +61,7 @@ body {
       position: relative;
       float: left;
       margin-left: 0;
-      margin-right: 0;
+      margin-right: 1em;
       width: 100%;
       clear: both;
     }
