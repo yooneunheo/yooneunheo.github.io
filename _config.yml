@@ -20,7 +20,7 @@ title: '흔적을 남기다.'
 title_separator: '-'
 subtitle: # site tagline that appears below site title in masthead
 name: '흔적을 남기다.'
-description: '웹 디자인과 퍼블리싱. 하루동안 배우고 느낀 점을 기록합니다.'
+description: '배우고 느낀 점을 기록합니다.'
 url: 'https://yooneunheo.github.io'
 baseurl: # 서브 경로가 있는 경우 기재
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: 'Yooneun Heo'
   avatar: '/assets/images/silver.png'
-  bio: '웹 디자인과 퍼블리싱. 하루동안 배우고 느낀 점을 기록합니다.'
+  bio: '배우고 느낀 점을 기록합니다.'
   location: 'South Korea'
   email:
   links:

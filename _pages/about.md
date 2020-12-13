@@ -6,4 +6,4 @@ toc_ads: true
 layout: single
 ---
 
-web design & publishing.
+작성 예정 🔨
