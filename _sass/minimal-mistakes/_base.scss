@@ -76,13 +76,6 @@ ins {
   }
 }
 
-/* devinlife comment: 구글 애드 센스의 아래 바 레이아웃 삭제
- https://github.com/mmistakes/minimal-mistakes/issues/306 */
-ins.adsbygoogle {
-  border-bottom: none !important;
-  margin-bottom: 1em;
-}
-
 .toc-custom {
   margin-top: 1em;
 }
@@ -128,7 +121,7 @@ blockquote {
     font-style: italic;
 
     &:before {
-      content: "\2014";
+      content: '\2014';
       padding-right: 5px;
     }
   }
@@ -187,7 +180,7 @@ td > code {
   &:before,
   &:after {
     letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
+    content: '\00a0'; /* non-breaking space*/
   }
 }
 
@@ -361,7 +354,7 @@ a,
 tr,
 td,
 form button,
-input[type="submit"],
+input[type='submit'],
 .btn,
 .highlight,
 .archive__item-teaser {
