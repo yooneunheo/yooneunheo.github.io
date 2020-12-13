@@ -8,4 +8,16 @@
 @import 'minimal-mistakes'; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
 
-$link-color: red;
+a:visited {
+  font-size: 10px;
+  color: #999999;
+}
+.page__taxonomy-item {
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 8px;
+  padding: 3px 8px;
+  text-decoration: none;
+  border: 1px solid #b6b6b6;
+  border-radius: 4px;
+}
