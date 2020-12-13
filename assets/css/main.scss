@@ -6,9 +6,9 @@
 
 $link-color: #999;
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import 'minimal-mistakes'; // main partials
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+* {
+  font-family: 'Noto Serif KR', serif;
+}
 
 .page__taxonomy-item {
   display: inline-block;
@@ -19,3 +19,7 @@ $link-color: #999;
   border: 1px solid #b6b6b6;
   border-radius: 4px;
 }
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import 'minimal-mistakes'; // main partials
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
