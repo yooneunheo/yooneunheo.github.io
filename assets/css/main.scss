@@ -6,34 +6,6 @@
 
 $link-color: #999;
 
-* {
-  font-family: 'Noto Serif KR', serif;
-}
-
-.page__taxonomy-item {
-  display: inline-block;
-  margin-right: 5px;
-  margin-bottom: 8px;
-  padding: 2px 8px;
-  text-decoration: none;
-  border: 1px solid #b6b6b6;
-  border-radius: 4px;
-}
-
-.greedy-nav .visible-links a:before {
-  content: '';
-  position: absolute;
-  left: 0;
-  bottom: -2px;
-  height: 1px;
-  background: #6f777d;
-  width: 100%;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  -webkit-transform: scaleX(0) translate3d(0, 0, 0);
-  transform: scaleX(0) translate3d(0, 0, 0);
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import 'minimal-mistakes'; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
