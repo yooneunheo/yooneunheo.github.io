@@ -4,8 +4,7 @@ excerpt: '.'
 toc: true
 toc_sticky: true
 toc_label: 'On this page'
-# header:
-#   teaser:
+
 categories:
   - logs
 tags:
