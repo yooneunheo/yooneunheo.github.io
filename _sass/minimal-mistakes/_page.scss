@@ -62,7 +62,6 @@ body {
       float: left;
       margin-left: 0;
       margin-right: 0;
-      padding: 0;
       width: 100%;
       clear: both;
     }
@@ -84,7 +83,7 @@ body {
 }
 
 .page__content {
-  padding: 1em;
+  padding: 0;
 
   h2 {
     padding-bottom: 0.5em;
