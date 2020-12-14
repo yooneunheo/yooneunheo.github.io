@@ -8,7 +8,7 @@ toc_label: 'On this page'
 categories:
   - logs
 tags:
-  - log
+  - blog
 last_modified_at: 2020-12-14T08:06:00-05:00
 ---
 
