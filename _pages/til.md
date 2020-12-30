@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'TIL'
 permalink: /categories/TIL/
 layout: category
@@ -8,4 +8,4 @@ toc_ads: true
 taxonomy: TIL
 ---
 
-하루동안 배운 것을 기록합니다.
+하루동안 배운 것을 기록합니다. -->
