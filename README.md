@@ -1,3 +1,1 @@
-# yooneunheo.github.io
-
-Github pages blog
+깃헙 블로그
