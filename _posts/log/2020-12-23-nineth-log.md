@@ -1,12 +1,12 @@
 ---
-title: '2020-12-23'
-excerpt: '.'
+title: "2020-12-23"
+excerpt: "."
 toc: true
 toc_sticky: true
-toc_label: 'On this page'
+toc_label: "On this page"
 
 categories:
-  - logs
+  - log
 tags:
   - 반성
 last_modified_at: 2020-12-23T08:06:00-05:00

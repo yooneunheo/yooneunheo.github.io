@@ -1,12 +1,12 @@
 ---
-title: '2020-12-29'
-excerpt: '.'
+title: "2020-12-29"
+excerpt: "."
 toc: true
 toc_sticky: true
-toc_label: 'On this page'
+toc_label: "On this page"
 
 categories:
-  - logs
+  - log
 tags:
 last_modified_at: 2020-12-29T08:06:00-05:00
 ---
