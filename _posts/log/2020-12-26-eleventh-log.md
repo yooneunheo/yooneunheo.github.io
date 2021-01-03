@@ -1,6 +1,6 @@
 ---
 title: "2020-12-26"
-excerpt: "."
+excerpt: "log"
 toc: true
 toc_sticky: true
 toc_label: "On this page"
