@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: 'default' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: 'en-US'
-title: '흔적을 남기다.'
-title_separator: '-'
+locale: "en-US"
+title: "일일기록"
+title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: '흔적을 남기다.'
-description: '배우고 느낀 점을 기록합니다.'
-url: 'https://yooneunheo.github.io'
+name: "일일기록."
+description: "배우고 느낀 점을 기록합니다."
+url: "https://yooneunheo.github.io"
 baseurl: # 서브 경로가 있는 경우 기재
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: #사진
@@ -30,9 +30,9 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: 'disqus' # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "disqus" # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: 'https-yooneunheo-github-io' # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname: "https-yooneunheo-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -85,58 +85,58 @@ social:
 
 # Analytics
 analytics:
-  provider: 'false' # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
+  provider: "false" # 구글 어날리틱스 등록 false (default), "google", "google-universal", "custom"
   google:
     tracking_id: #
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: 'Yooneun Heo'
-  avatar: '/assets/images/silver.png'
-  bio: '배우고 느낀 점을 기록합니다.'
-  location: 'South Korea'
+  name: "Yooneun Heo"
+  avatar: "/assets/images/silver.png"
+  bio: "배우고 느낀 점을 기록합니다."
+  location: "South Korea"
   email:
   links:
-    - label: 'Email'
-      icon: 'fas fa-fw fa-envelope-square'
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
       url: mailto:yooneunheo@gmail.com
-    - label: 'Website'
-      icon: 'fas fa-fw fa-link'
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
       #url: 'https://devinlife.com'
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/yooneunheo'
-    - label: 'Instagram'
-      icon: 'fab fa-fw fa-instagram'
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yooneunheo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/yooneunheo'
-    - label: 'GitLab'
-      icon: 'fab fa-fw fa-gitlab'
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yooneunheo"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: 'Bitbucket'
-      icon: 'fab fa-fw fa-bitbucket'
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: 'Instagram'
-      icon: 'fab fa-fw fa-instagram'
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
       # url:
 
 # Reading Files
@@ -144,8 +144,8 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - '*.sublime-project'
-  - '*.sublime-workspace'
+  - "*.sublime-project"
+  - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
@@ -173,8 +173,8 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: 'utf-8'
-markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
@@ -260,7 +260,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ''
+      path: ""
       type: posts
     values:
       layout: single
@@ -273,7 +273,7 @@ defaults:
 
   # _pages
   - scope:
-      path: ''
+      path: ""
       type: pages
     values:
       layout: single
