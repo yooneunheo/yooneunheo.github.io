@@ -24,10 +24,10 @@ last_modified_at: 2020-01-15T08:06:00-05:008
 
 ##### 참고 사이트
 
-[웹스토리지 사용법](https://www.daleseo.com/js-web-storage/)
-[JSON - 엘리 강의](https://www.youtube.com/watch?v=FN_D4Ihs3LE)
-[JSON - 생활코딩](https://www.youtube.com/watch?v=MDK3xB6SuQk)
-[Learn JSON in 10 Min](https://www.youtube.com/watch?v=iiADhChRriM)
+- [웹스토리지 사용법](https://www.daleseo.com/js-web-storage/)
+- [JSON - 엘리 강의](https://www.youtube.com/watch?v=FN_D4Ihs3LE)
+- [JSON - 생활코딩](https://www.youtube.com/watch?v=MDK3xB6SuQk)
+- [Learn JSON in 10 Min](https://www.youtube.com/watch?v=iiADhChRriM)
 
 ##### 느낀 점
 
