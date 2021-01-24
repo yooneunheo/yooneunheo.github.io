@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "느리게 꾸준히"
+title: "일일기록"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "느리게 꾸준히"
+name: "일일기록"
 description: "배우고 느낀 점을 기록합니다."
 url: "https://yooneunheo.github.io"
 baseurl: # 서브 경로가 있는 경우 기재

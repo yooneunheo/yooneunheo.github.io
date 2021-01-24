@@ -8,7 +8,6 @@ toc_label: "On this page"
 categories:
   - log
 tags:
-  - 반성
 last_modified_at: 2020-12-23T08:06:00-05:00
 ---
 
