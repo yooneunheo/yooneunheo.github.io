@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "log"
 permalink: /categories/log/
 layout: category
@@ -8,4 +8,4 @@ toc_ads: true
 taxonomy: log
 ---
 
-하루동안 느낀 점을 기록합니다.
+하루동안 느낀 점을 기록합니다. -->
