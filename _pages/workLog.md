@@ -1,5 +1,5 @@
 ---
-title: "workLog"
+title: 'workLog'
 permalink: /categories/workLog/
 layout: category
 author_profile: true
@@ -8,4 +8,4 @@ toc_ads: true
 taxonomy: workLog
 ---
 
-작업 일지
+뱅앤올룹슨 작업 일지
